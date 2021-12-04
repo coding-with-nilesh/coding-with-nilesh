@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
 <h3 align="center">A passionate fullstack developer, architect and consultant from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nks-fullstack" alt="nks-fullstack" /></a> </p>
-
 - 🔭 I’m currently working with [NS Edutech](https://www.nsedutech.com)
 
 - 💬 Ask me about **ReactJS, Angular, .Net, C#, Javascript.**
