@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer, architect and consultant from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks-fullstack&label=Profile%20views&color=0e75b6&style=flat" alt="nks-fullstack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nks-fullstack" alt="nks-fullstack" /></a> </p>
 
-- 🔭 I’m currently working on [NS Edutech](https://www.nsedutech.com)
+- 🔭 I’m currently working with [NS Edutech](https://www.nsedutech.com)
 
 - 💬 Ask me about **ReactJS, Angular, .Net, C#, Javascript.**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">My Profiles</h3>
 <div> https://nileshkrishna.netlify.app/ </div>
- <div>https://nileshkrishna.vercel.app/</div>
+ <div>https://nilesh.vercel.app/</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">email: codingwithnilesh@gmail.com
